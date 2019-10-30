@@ -16,7 +16,7 @@ When the commands are one after another, they are called **a computer program**.
 The text of computer programs is called **a program code** (or a **source code**, or even shorter – **code**).
 
 Example of command for the computer:
-```cs live
+```cs live no-template
 Console.WriteLine("Welcome to coding");
 ```
 [/slide]
