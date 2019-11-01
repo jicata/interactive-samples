@@ -2,7 +2,7 @@
 
 [slide]
 # What is Coding?
-```cs live no-template
+```cs live
 Console.WriteLine("Welcome to coding");
 ```
 [/slide]
