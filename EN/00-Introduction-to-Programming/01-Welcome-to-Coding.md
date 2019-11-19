@@ -2,7 +2,7 @@
 
 [slide]
 # Problem: Square Area
-[code-task title="Square Area" executionType="tests-execution" executionStrategy="csharp-dot-net-core-code" requiresInput]
+[code-task title="Square Area" taskId="kur-5" executionType="tests-execution" executionStrategy="csharp-dot-net-core-code" requiresInput]
 [code-editor language=csharp]
 ```
 using System;
