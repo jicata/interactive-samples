@@ -80,9 +80,11 @@ Print on the console the calculated area
 [/tests]
 [code-io /]
 [/code-task]
-[/slide]
-
 
 [code-io /]
 
 [tasks-results /]
+
+[/slide]
+
+
