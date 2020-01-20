@@ -24,7 +24,7 @@ Let's solve a few problems to confirm what we have learned.
 
 [slide]
 # Problem: Print "Hello Python"
-[code-task title="Print Hello Python" taskId="24-00-p-01" executionType="tests-execution" executionStrategy="python-code"]
+[code-task title="Print Hello Python NELEGALNA SHEGA" taskId="24-00-p-01" executionType="tests-execution" executionStrategy="python-code"]
 [code-editor language=python]
 ```
 # Write your code here
