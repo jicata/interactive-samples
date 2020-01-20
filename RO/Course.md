@@ -1,4 +1,4 @@
-# Programming Basics with C#
+# Programming Basics with Python
 
 ## Description
 This course teaches the **basics of coding**, such as:
@@ -16,4 +16,4 @@ English
 Beginner
 
 ## Authors
-Technical Trainers Team, SoftUni
+Unnamed
