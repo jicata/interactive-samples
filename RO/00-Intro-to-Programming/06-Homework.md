@@ -51,7 +51,7 @@ Hello Python
 
 [slide]
 # Problem: Calculate and Print 5 * 5
-[code-task title="Calculate and Print 5 * 5" taskId="24-00-p-01" executionType="tests-execution" executionStrategy="python-code" ]
+[code-task title="Calculate and Print 5 * 5" taskId="24-00-p-02" executionType="tests-execution" executionStrategy="python-code" ]
 [code-editor language=python]
 ```
 # Write your code here
